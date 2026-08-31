@@ -92,12 +92,6 @@ The application generates personalized recommendations based on:
 - Physical health conditions (immunity tips)
 - Mental wellness conditions (stress management, sleep improvement)
 
-## Building for Production
-
-```bash
-npm run build
-```
-
 This creates an optimized production build in the `build` folder.
 
 ## License
