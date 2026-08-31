@@ -19,8 +19,7 @@ function PrivateRoute({ children }) {
 }
 
 function PublicRoute({ children }) {
-  // For login/signup pages, just show them if not authenticated
-  // The redirect logic is handled in Login/Signup components after successful auth
+
   return children;
 }
 
