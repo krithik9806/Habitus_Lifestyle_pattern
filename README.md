@@ -1,6 +1,6 @@
 # Habitus - Lifestyle Pattern Wellness Application
 
-Habitus helps users understand their basic wellness patterns and gives quick, personalized daily recommendations—without requiring long forms, tracking devices, or complicated analytics.
+Habitus helps users understand their basic wellness patterns and gives quick, personalized daily recommendations—without requiring long forms, tracking devices, and complicated analytics.
 
 ## Features
 
